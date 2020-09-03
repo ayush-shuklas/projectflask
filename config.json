@@ -6,7 +6,11 @@
       "prod_url":"mysql://root:@localhost/flaskpost",
       "fb_url":"https://facebook.com/ayush.shuklas",
       "tw_url":"https://twitter.com/ayushshuklas",
-      "gh_url":"https://github.com/ayushshuklas"
+      "gh_url":"https://github.com/ayushshuklas",
+      "blog_name": "sentiment",
+      "tag_line": "the future world",
+      "gmail-user": "forprojectsmails@gmail.com",
+      "gmail-password": "graces31"
    }
 
 
